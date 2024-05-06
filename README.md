@@ -12,7 +12,7 @@ yarn add
 pnpm install
 ```
 
-Secoon, run the development server:
+Second, run the development server:
 
 ```bash
 npm run dev
